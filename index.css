@@ -1,0 +1,19 @@
+/* Write your code here. */
+.head {
+  color: black;
+  font-size: 40px;
+}
+.bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box-container {
+  display: flex;
+}
+.small {
+  background-color: #fbbf24;
+}
+.medium {
+  background-color: #38bdf8;
+}
